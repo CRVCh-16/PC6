@@ -1,2 +1,3 @@
 # PC6_Part_I
-Resolución de la PC6
+La primera parte de esta PC consistió en calcular las distancias entre distintas geometrías de geodataframes. Para el 1er ejercicio, se calculó la matriz de distancias entre mapas de puntos (airports y seaports). Para el 2do ejercicio, se calculó la matriz de distancias entre una línea (river) y puntos (large airports) y se plotearon. Para el 3er ejercicio, se creó un convex_hull (poligono) que es el sistema de rios Mackenzie y se calculó su distancia a los airports; luego se plotearon los puntos más importantes. Para el 4to ejercicio, se tuvo que crear un buffer al rededor de los rios y capturar los small airports que caen dentro de este para finalmente plotearlos.
+Enlace: https://crvch-16.github.io/PC6_Part_I/
